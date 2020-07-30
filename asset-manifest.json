@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tallybook/static/css/main.c0216dd2.chunk.css",
+    "main.js": "/tallybook/static/js/main.3c696dae.chunk.js",
+    "main.js.map": "/tallybook/static/js/main.3c696dae.chunk.js.map",
+    "runtime-main.js": "/tallybook/static/js/runtime-main.5bd5bacb.js",
+    "runtime-main.js.map": "/tallybook/static/js/runtime-main.5bd5bacb.js.map",
+    "static/js/2.32b6f112.chunk.js": "/tallybook/static/js/2.32b6f112.chunk.js",
+    "static/js/2.32b6f112.chunk.js.map": "/tallybook/static/js/2.32b6f112.chunk.js.map",
+    "index.html": "/tallybook/index.html",
+    "precache-manifest.61a28f750b3c65a5c9e994dfa1265c0a.js": "/tallybook/precache-manifest.61a28f750b3c65a5c9e994dfa1265c0a.js",
+    "service-worker.js": "/tallybook/service-worker.js",
+    "static/css/main.c0216dd2.chunk.css.map": "/tallybook/static/css/main.c0216dd2.chunk.css.map",
+    "static/js/2.32b6f112.chunk.js.LICENSE.txt": "/tallybook/static/js/2.32b6f112.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bd5bacb.js",
+    "static/js/2.32b6f112.chunk.js",
+    "static/css/main.c0216dd2.chunk.css",
+    "static/js/main.3c696dae.chunk.js"
+  ]
+}
